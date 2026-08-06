@@ -21,6 +21,11 @@
   weight = 20
 
 [[main]]
+  name = "Achievements"
+  pageRef = "achievements"
+  weight = 25
+
+[[main]]
   name = "Users"
   pageRef = "users"
   weight = 30
