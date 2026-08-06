@@ -9,7 +9,7 @@ copyright = "&copy; 2026 Michael Francis David"
 [params]
   dateFormat = "2 January 2006"
 
-  mainSections = ["samples"]
+  mainSections = ["posts"]
   description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 
 [params.author]
