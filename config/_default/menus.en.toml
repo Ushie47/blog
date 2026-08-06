@@ -26,9 +26,14 @@
   weight = 25
 
 [[main]]
+  name = "Resources"
+  pageRef = "resources"
+  weight = 30
+
+[[main]]
   name = "Users"
   pageRef = "users"
-  weight = 30
+  weight = 35
 
 [[main]]
   name = "GitHub"
