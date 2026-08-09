@@ -1,0 +1,22 @@
+locale = "ru-RU"
+label = "Русский"
+direction = "ltr"
+weight = 2
+
+title = "Michael Francis David"
+copyright = "&copy; 2026 Michael Francis David"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["posts"]
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+[params.author]
+  name = "Michael Francis David"
+  image = "img/Avatar.jpg"
+  headline = "Студент Математики и компьютер наук"
+  bio = "Я студент первого курса по направлению «Математика и компьютерные науки» в РУДН, специализируюсь на кибербезопасности. Мои интересы включают операционные системы, сети и исследования в области безопасности."
+  links = [
+    { github = "https://github.com/Ushie47" },
+  ]
