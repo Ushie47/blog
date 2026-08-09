@@ -16,11 +16,6 @@
   weight = 10
 
 [[main]]
-  name = "Samples"
-  pageRef = "samples"
-  weight = 20
-
-[[main]]
   name = "Blog"
   pageRef = "posts"
   weight = 15
@@ -34,11 +29,6 @@
   name = "Resources"
   pageRef = "resources"
   weight = 30
-
-[[main]]
-  name = "Users"
-  pageRef = "users"
-  weight = 35
 
 [[main]]
   name = "GitHub"
