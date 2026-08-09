@@ -5,6 +5,7 @@
 baseURL = "https://ushie47.github.io/blog/"
 theme = "congo"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 
 enableRobotsTXT = true
 summaryLength = 0
